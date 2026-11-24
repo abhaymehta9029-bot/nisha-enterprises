@@ -58,7 +58,7 @@ export default function Footer({ onNavigate }) {
           </div>
 
           {/* Quick Navigation Links */}
-          <div>
+          <div style={{ marginLeft: '80px' }}>
             <h4 style={{ fontSize: '1.05rem', color: 'var(--color-white)', marginBottom: '1.25rem', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
               Quick Links
             </h4>
@@ -176,7 +176,7 @@ export default function Footer({ onNavigate }) {
           }}
         >
           <div>
-            © {currentYear} <strong>Nisha Enterprises</strong>. All rights reserved. Registered Industrial Manufacturing Unit in Dombivli East, Maharashtra.
+            © {currentYear} <strong>NishaEnterprises</strong>. All rights reserved. Registered Industrial Manufacturing Unit in Dombivli East, Maharashtra.
           </div>
 
           <div style={{ display: 'flex', alignItems: 'center', gap: '1.5rem' }}>
