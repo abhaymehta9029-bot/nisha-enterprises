@@ -61,7 +61,7 @@ export default function ContactSection({ prefillProduct, prefillService }) {
 
   const buildWhatsAppText = () => {
     return encodeURIComponent(
-      `*New Business Enquiry for Comp_name Enterprises*\n\n` +
+      `*New Business Enquiry for Nisha Enterprises*\n\n` +
       `*Name:* ${formData.name}\n` +
       `*Phone:* ${formData.phone}\n` +
       `*Email:* ${formData.email || 'Not provided'}\n` +
@@ -78,7 +78,7 @@ export default function ContactSection({ prefillProduct, prefillService }) {
   };
 
   const whatsappDirectUrl = `https://wa.me/${COMPANY_INFO.contact.whatsappNumber}?text=${encodeURIComponent(
-    'Hello Comp_name Enterprises, I am contacting you from your Dombivli East industrial website regarding an engineering fabrication requirement.'
+    'Hello Nisha Enterprises, I am contacting you from your Dombivli East industrial website regarding an engineering fabrication requirement.'
   )}`;
 
   return (
@@ -136,7 +136,7 @@ export default function ContactSection({ prefillProduct, prefillService }) {
               </div>
 
               <h3 style={{ fontSize: '1.75rem', color: 'var(--color-white)', marginBottom: '1.5rem' }}>
-                Comp_name Enterprises
+                Nisha Enterprises
               </h3>
 
               {/* Contact Details List */}
@@ -263,7 +263,7 @@ export default function ContactSection({ prefillProduct, prefillService }) {
               }}
             >
               <iframe
-                title="Comp_name Enterprises Dombivli East Location Map"
+                title="Nisha Enterprises Dombivli East Location Map"
                 src={COMPANY_INFO.location.googleMapsEmbedUrl}
                 width="100%"
                 height="100%"
@@ -314,7 +314,7 @@ export default function ContactSection({ prefillProduct, prefillService }) {
                 </div>
 
                 <p style={{ fontSize: '0.88rem', color: 'var(--color-text-dark)', lineHeight: 1.5, marginBottom: '1.25rem' }}>
-                  Notice: No external backend database is currently connected to store form data. You can directly send your enquiry to Comp_name Enterprises with one click:
+                  Notice: No external backend database is currently connected to store form data. You can directly send your enquiry to Nisha Enterprises with one click:
                 </p>
 
                 <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>

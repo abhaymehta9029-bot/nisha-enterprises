@@ -24,7 +24,7 @@ export default function ProductsSection({ onSelectProduct }) {
   };
 
   const getWhatsAppProductUrl = (product) => {
-    const text = `Hello Comp_name Enterprises, I am inquiring about *${product.name}* (Ref: Dombivli East Workshop). Please share technical specifications, pricing, and manufacturing lead time.`;
+    const text = `Hello Nisha Enterprises, I am inquiring about *${product.name}* (Ref: Dombivli East Workshop). Please share technical specifications, pricing, and manufacturing lead time.`;
     return `https://wa.me/${COMPANY_INFO.contact.whatsappNumber}?text=${encodeURIComponent(text)}`;
   };
 

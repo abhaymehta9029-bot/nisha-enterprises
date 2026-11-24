@@ -176,7 +176,7 @@ export default function Footer({ onNavigate }) {
           }}
         >
           <div>
-            © {currentYear} <strong>Comp_name Enterprises</strong>. All rights reserved. Registered Industrial Manufacturing Unit in Dombivli East, Maharashtra.
+            © {currentYear} <strong>Nisha Enterprises</strong>. All rights reserved. Registered Industrial Manufacturing Unit in Dombivli East, Maharashtra.
           </div>
 
           <div style={{ display: 'flex', alignItems: 'center', gap: '1.5rem' }}>

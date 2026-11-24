@@ -1,5 +1,5 @@
 /**
- * Services Data for Comp_name Enterprises
+ * Services Data for Nisha Enterprises
  * Clear industrial manufacturing and metal fabrication capabilities.
  * Note: Tank Fabrication and Drawing Support are marked subject to confirmation.
  */

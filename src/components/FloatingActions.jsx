@@ -18,7 +18,7 @@ export default function FloatingActions() {
   };
 
   const whatsappUrl = `https://wa.me/${COMPANY_INFO.contact.whatsappNumber}?text=${encodeURIComponent(
-    'Hello Comp_name Enterprises (Dombivli East), I would like to enquire about industrial fabrication / tank manufacturing.'
+    'Hello Nisha Enterprises (Dombivli East), I would like to enquire about industrial fabrication / tank manufacturing.'
   )}`;
 
   return (
@@ -40,7 +40,7 @@ export default function FloatingActions() {
         href={whatsappUrl}
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Chat with Comp_name Enterprises on WhatsApp"
+        aria-label="Chat with Nisha Enterprises on WhatsApp"
         style={{
           width: '54px',
           height: '54px',

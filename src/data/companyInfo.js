@@ -1,11 +1,11 @@
 /**
- * Company information for Comp_name Enterprises
+ * Company information for Nisha Enterprises
  * Real verified data from workshop records and industrial directory registrations.
  */
 
 export const COMPANY_INFO = {
-  name: "Comp_name Enterprises",
-  legalName: "Comp_name Enterprises",
+  name: "Nisha Enterprises",
+  legalName: "Nisha Enterprises",
   tagline: "Engineering Strength. Manufacturing Excellence.",
   subTagline: "Precision Industrial Engineering, Metal Fabrication & Tank Manufacturing",
   
@@ -22,12 +22,12 @@ export const COMPANY_INFO = {
 
   // Contact details (verified and configurable)
   contact: {
-    primaryPhone: "+91 9876543210",
-    displayPhone: "+91 9876543210",
+    primaryPhone: "+91 7678086693",
+    displayPhone: "+91 7678086693",
     phoneHref: "tel:+919876543210",
-    whatsappNumber: "7977104342",
-    email: "contact@nishaenterprises.in", // Configurable enquiry email
-    displayEmail: "contact@nishaenterprises.in"
+    whatsappNumber: "7678086693",
+    email: "contact@Nisha Enterprises.in", // Configurable enquiry email
+    displayEmail: "contact@Nisha Enterprises.in"
   },
 
   // Official Business Identifiers

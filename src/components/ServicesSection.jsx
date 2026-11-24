@@ -154,7 +154,7 @@ export default function ServicesSection({ onContactForService }) {
           </div>
 
           <a
-            href={`https://wa.me/${COMPANY_INFO.contact.whatsappNumber}?text=${encodeURIComponent('Hello Comp_name Enterprises, I want to send an engineering drawing for quotation.')}`}
+            href={`https://wa.me/${COMPANY_INFO.contact.whatsappNumber}?text=${encodeURIComponent('Hello Nisha Enterprises, I want to send an engineering drawing for quotation.')}`}
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-primary"

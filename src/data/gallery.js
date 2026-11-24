@@ -1,5 +1,5 @@
 /**
- * Gallery Items for Comp_name Enterprises
+ * Gallery Items for Nisha Enterprises
  * Real industrial imagery representing the workshop setup at Bhalla Compound,
  * Lalit Kata, Dombivli East, including tank fabrication, welding, and finished assemblies.
  * (Replaceable sample images reflecting actual workshop operations).

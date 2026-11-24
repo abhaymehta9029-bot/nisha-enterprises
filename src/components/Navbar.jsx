@@ -38,7 +38,7 @@ export default function Navbar({ activeSection, onNavigate }) {
   };
 
   const whatsappUrl = `https://wa.me/${COMPANY_INFO.contact.whatsappNumber}?text=${encodeURIComponent(
-    'Hello Comp_name Enterprises, I am interested in your industrial fabrication and tank manufacturing services. Please share details.'
+    'Hello Nisha Enterprises, I am interested in your industrial fabrication and tank manufacturing services. Please share details.'
   )}`;
 
   return (

@@ -4,7 +4,7 @@ import { COMPANY_INFO } from '../data/companyInfo';
 
 export default function CtaBanner({ onContactClick }) {
   const whatsappUrl = `https://wa.me/${COMPANY_INFO.contact.whatsappNumber}?text=${encodeURIComponent(
-    'Hello Comp_name Enterprises, I would like to request an industrial manufacturing quote for our factory requirements.'
+    'Hello Nisha Enterprises, I would like to request an industrial manufacturing quote for our factory requirements.'
   )}`;
 
   return (

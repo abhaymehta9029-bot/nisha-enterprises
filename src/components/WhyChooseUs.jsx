@@ -42,7 +42,7 @@ export default function WhyChooseUs() {
 
         {/* Section Header */}
         <div className="section-header">
-          <span className="section-eyebrow">The Comp_name Advantage</span>
+          <span className="section-eyebrow">The NishaAdvantage</span>
           <h2 className="section-title">Why Heavy Industries Trust Our Work</h2>
           <p className="section-subtitle">
             From single custom tanks to integrated effluent treatment vessels, our manufacturing process prioritizes long service life, safety margins, and structural endurance.

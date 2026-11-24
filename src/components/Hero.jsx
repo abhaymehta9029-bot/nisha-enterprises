@@ -101,7 +101,7 @@ export default function Hero({ onExploreWork, onContactUs }) {
               marginBottom: '2.5rem'
             }}
           >
-            Comp_name Enterprises is a specialized industrial metal fabrication and engineering manufacturing facility in Dombivli East. We build robust mild steel & stainless steel storage tanks, sand & carbon filter vessels, mixing machinery, and custom-fabricated structures engineered for demanding plant conditions.
+            Nisha Enterprises is a specialized industrial metal fabrication and engineering manufacturing facility in Dombivli East. We build robust mild steel & stainless steel storage tanks, sand & carbon filter vessels, mixing machinery, and custom-fabricated structures engineered for demanding plant conditions.
           </p>
 
           {/* CTA Buttons */}

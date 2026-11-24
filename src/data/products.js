@@ -1,5 +1,5 @@
 /**
- * Product Catalogue for Comp_name Enterprises
+ * Product Catalogue for Nisha Enterprises
  * Real industrial products based on workshop specializations, filter tanks,
  * mixing machines, and structural fabrication.
  * Note: Marked as provisional categories subject to final company verification.

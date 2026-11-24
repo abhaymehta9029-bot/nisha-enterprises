@@ -48,10 +48,10 @@ export default function AboutSection() {
         
         {/* Section Header */}
         <div className="section-header">
-          <span className="section-eyebrow">About Comp_name Enterprises</span>
+          <span className="section-eyebrow">About Nisha Enterprises</span>
           <h2 className="section-title">Engineered Reliability for Heavy Industry</h2>
           <p className="section-subtitle">
-            Established in 2019 in Dombivli East, Maharashtra, Comp_name Enterprises operates as a dedicated industrial engineering and metal fabrication facility catering to chemical, water treatment, and manufacturing facilities across the Thane-Kalyan industrial belt.
+            Established in 2019 in Dombivli East, Maharashtra, Nisha Enterprises operates as a dedicated industrial engineering and metal fabrication facility catering to chemical, water treatment, and manufacturing facilities across the Thane-Kalyan industrial belt.
           </p>
         </div>
 
@@ -78,7 +78,7 @@ export default function AboutSection() {
             >
               <img 
                 src="https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=900&q=80" 
-                alt="Industrial Metal Fabrication at Comp_name Enterprises Workshop"
+                alt="Industrial Metal Fabrication at Nisha Enterprises Workshop"
                 onError={(e) => {
                   e.target.onerror = null;
                   e.target.src = getIndustrialFallback('Dombivli Fabrication Bay');
@@ -127,7 +127,7 @@ export default function AboutSection() {
             </h3>
 
             <p style={{ color: 'var(--color-text-muted)', marginBottom: '1.25rem', lineHeight: 1.7 }}>
-              Industrial manufacturing requires uncompromising structural integrity. At Comp_name Enterprises, our fabrication workflow begins with thorough plate inspection, accurate beveling, and controlled plate rolling to achieve precise cylindrical profiles without stress fractures.
+              Industrial manufacturing requires uncompromising structural integrity. At Nisha Enterprises, our fabrication workflow begins with thorough plate inspection, accurate beveling, and controlled plate rolling to achieve precise cylindrical profiles without stress fractures.
             </p>
 
             <p style={{ color: 'var(--color-text-muted)', marginBottom: '2rem', lineHeight: 1.7 }}>

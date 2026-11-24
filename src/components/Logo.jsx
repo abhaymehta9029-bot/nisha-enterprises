@@ -1,7 +1,7 @@
 import React from 'react';
 
 /**
- * Reusable Brand Logo Component for Comp_name Enterprises
+ * Reusable Brand Logo Component for Nisha Enterprises
  * Incorporates an engineered steel tank silhouette, precision geometric structural frame,
  * and high-impact industrial typography in Dark Navy & Industrial Orange.
  */
