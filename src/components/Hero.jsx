@@ -19,6 +19,7 @@ export default function Hero({ onExploreWork, onContactUs }) {
         overflow: 'hidden'
       }}
     >
+      
       {/* Background Industrial Overlay with High-Resolution Image */}
       <div 
         className="hero-bg-overlay"
@@ -73,7 +74,7 @@ export default function Hero({ onExploreWork, onContactUs }) {
               <span>Dombivli East, Maharashtra</span>
             </span>
           </div>
-
+                
           {/* Main Hero Headline */}
           <h1 
             style={{

@@ -4,6 +4,7 @@
  */
 
 export const COMPANY_INFO = {
+
   name: "Nisha Enterprises",
   legalName: "Nisha Enterprises",
   tagline: "Engineering Strength. Manufacturing Excellence.",
@@ -26,8 +27,8 @@ export const COMPANY_INFO = {
     displayPhone: "+91 7678086693",
     phoneHref: "tel:+919876543210",
     whatsappNumber: "7678086693",
-    email: "contact@Nisha Enterprises.in", // Configurable enquiry email
-    displayEmail: "contact@Nisha Enterprises.in"
+    email: "contact@nishaenterprises.in", // Configurable enquiry email
+    displayEmail: "contact@nishaenterprises.in"
   },
 
   // Official Business Identifiers

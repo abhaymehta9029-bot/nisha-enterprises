@@ -16,6 +16,7 @@ export default function App() {
   const [activeSection, setActiveSection] = useState('home');
   const [prefillProduct, setPrefillProduct] = useState(null);
   const [prefillService, setPrefillService] = useState(null);
+    
 
   // Monitor visible section for active navbar link
   useEffect(() => {
